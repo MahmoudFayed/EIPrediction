@@ -1,2 +1,5 @@
 # EIPrediction
-Electrode Impedance Prediciton
+
+Electrode Impedance Prediciton (Cochlear implants)
+
+
